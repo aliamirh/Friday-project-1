@@ -1,0 +1,13 @@
+.container{
+  float: left;
+}
+body{
+  background-color: #a5cfe8;
+}
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+}
