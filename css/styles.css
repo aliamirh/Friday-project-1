@@ -11,6 +11,7 @@ body{
 }
 h1{
   color: #065a91;
+  text-align: center;
 }
 .cat{
   float: left;
@@ -34,4 +35,9 @@ p{
 
 ol{
   font-family: cursive;
+}
+.link{
+  
+  width: 3%;
+  height: 3%;
 }
